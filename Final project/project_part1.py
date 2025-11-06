@@ -247,7 +247,7 @@ if __name__ == "__main__":
     WINDOW_HEIGHT = 300 
     SNAKE_ICON_WIDTH = 15
     
-    BACKGROUND_COLOUR = "green" 
+    BACKGROUND_COLOUR = "blue" 
     ICON_COLOUR = "yellow" 
 
     gameQueue = queue.Queue()     #instantiate a queue object using python's queue class
